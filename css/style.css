@@ -49,3 +49,22 @@ body {
     color: white;
     background-color: black;
 }
+
+/* ================== Content ================== */
+  
+.danny_bio {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    background-color: rgb(61, 150, 202);
+    padding: 1rem;
+    width: 500px;
+}
